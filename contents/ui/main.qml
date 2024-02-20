@@ -55,12 +55,21 @@ Item {
 							Layout.fillWidth: true
 							spacing: Kirigami.Units.mediumSpacing
 
+
+  PlasmaComponents.ToolButton {
+    text: "Return to Google"
+    onClicked: {
+        // Open abc.com in a web browser
+        gptWebView.url = "https://www.google.com/"
+    }
+}
+
+
 							Kirigami.Heading {
 								id: samirgaire10
 								Layout.alignment: Qt.AlignCenter
 								Layout.fillWidth: true
 								verticalAlignment: Text.AlignVCenter
-								text: i18n("Google")
 								color: theme.textColor
 							}
 						}
