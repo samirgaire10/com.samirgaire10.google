@@ -28,7 +28,6 @@ and run the command
 
 
 
-
 ##  Other Tools 
 
 - Goolge gimini [Github](https://github.com/samirgaire10/com.samirgaire10.Google-Gemini)
@@ -36,8 +35,9 @@ and run the command
 - perplexity  [Github](https://github.com/samirgaire10/com.samirgaire10.perplexity)
 - Google  [Github](https://github.com/samirgaire10/com.samirgaire10.google)
 - Brave  [Github](https://github.com/samirgaire10/com.samirgaire10.brave)
-- Deepl  [Github](https://github.com/samirgaire10/com.samirgaire10.Deepl
-)
+- Deepl  [Github](https://github.com/samirgaire10/com.samirgaire10.Deepl)
+- twitter  [Github](https://github.com/samirgaire10/com.samirgaire10.twitter.git)
+
 
 
 
